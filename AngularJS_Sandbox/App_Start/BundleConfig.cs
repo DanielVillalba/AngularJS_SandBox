@@ -13,6 +13,7 @@ namespace AngularJS_Sandbox
                 , "~/Scripts/angular-route.js"
                 , "~/Scripts/Application/app.js"
                 , "~/Scripts/Application/routing.js"
+                , "~/Scripts/Application/directives.js"
                 , "~/Scripts/Application/services.js"));
 
             bundles.Add(new ScriptBundle("~/bundles/jquery").Include(
